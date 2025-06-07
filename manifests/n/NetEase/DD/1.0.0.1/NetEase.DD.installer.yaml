@@ -9,13 +9,13 @@ UpgradeBehavior: install
 Protocols:
 - cc-voice-hub
 ProductCode: NetEaseDD
-ReleaseDate: 2025-05-21
+ReleaseDate: 2025-06-05
 Installers:
 - Architecture: x86
-  InstallerUrl: https://cc.gdl.netease.com/NetEase_DD_Setup_100067_309739_x32.exe
-  InstallerSha256: 6C4BEA811F3EBF6181A58C9C9209F76971E874BAC7659BFA6F3D13AD5486DB21
+  InstallerUrl: https://cc.gdl.netease.com/NetEase_DD_Setup_100070_309892_x32.exe
+  InstallerSha256: 42EDFEE8544FBD7F1C73E40FB94C9056FDBD4D2F1CB46DAFF8DB87F685775080
 - Architecture: x64
-  InstallerUrl: https://cc.gdl.netease.com/NetEase_DD_Setup_100067_309738_x64.exe
-  InstallerSha256: 535CD2F46FBA3B9A154A0F067273CDD9BA4371936ADD23CF475CB8F9E9F73203
+  InstallerUrl: https://cc.gdl.netease.com/NetEase_DD_Setup_100070_309891_x64.exe
+  InstallerSha256: 62EF5A92A1BDF67334E53670CAE982C6FCAA894FCAE2B9DB493AF484EE1AFA40
 ManifestType: installer
 ManifestVersion: 1.10.0
